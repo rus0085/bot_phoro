@@ -1,1 +1,1 @@
-# bot_phoro
+# bot_photo
