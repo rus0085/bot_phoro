@@ -23,7 +23,7 @@ connector.commit()
 info_sql = ['','','','','','']
 
 images = dict()
-token = '5136783035:AAFxDeRpBQhLBsKBHfg0DoYhgQIKeTarQzo'
+token = '*******************'
 bot = telebot.TeleBot(token)
 
 markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
